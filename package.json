@@ -1,0 +1,12 @@
+{
+  "name": "new1-styles",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:sass": "sass --no-source-map scss:css",
+    "watch:sass": "sass --watch scss:css"
+  },
+  "devDependencies": {
+    "sass": "^1.80.0"
+  }
+}
